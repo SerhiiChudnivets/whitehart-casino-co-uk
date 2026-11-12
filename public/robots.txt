@@ -2,4 +2,4 @@ User-agent: *
 Disallow: /trackback/
 Disallow: /play/*
 
-Sitemap: https://mykingbet.uk/sitemap.xml
+Sitemap: https://whitehart-casino.co.uk/sitemap.xml
